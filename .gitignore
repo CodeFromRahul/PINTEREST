@@ -1,0 +1,8 @@
+node_modules
+dist
+bin
+package-lock.json
+package.json
+.gitignore
+.vscode
+PINTEREST
